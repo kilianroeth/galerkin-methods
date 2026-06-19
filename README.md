@@ -1,3 +1,7 @@
 # Galerkin methods
 
 Trying out some FEM Galerkin methods for solving ODEs and PDEs with different sets of basis functions.
+
+![simple ODE with hat functions](results/galerkin.png)
+![simple ODE with legendre polynomials](results/spectral-galerkin.png)
+![diffusion-convection equatoin](results/galerkinW-diffusion-convection.png)
